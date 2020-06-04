@@ -1,0 +1,19 @@
+{
+  "name": "fix-next-css-pop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "https://github.com/kavience/fix-next-css-pop",
+  "dependencies": {
+    "css-loader": "^3.5.3",
+    "extracted-loader": "^1.0.4",
+    "find-up": "^3.0.0",
+    "fix-mini-css-extract-plugin-pop": "git+https://github.com/kavience/fix-mini-css-extract-plugin-pop#v0.0.1",
+    "ignore-loader": "^0.1.2",
+    "postcss-loader": "^3.0.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.16.3"
+  },
+  "gitHead": "ea033aff7b1d4717e80edb64320e2d6fcc873430"
+}
